@@ -1,0 +1,28 @@
+.colum-2{
+    
+    background: radial-gradient(#fff,#f4daca);
+    max-width: 100%;
+    height: 100vh;
+}
+
+.about{
+    max-width: 100%;
+    margin-top: 10px;
+    padding-top: 200px;
+    height: 100vh;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+    
+}
+
+@media only screen and (max-width:600px){
+    .colum-2{
+        text-align: center;
+display: block;
+    }
+    
+    
+    }
+    
